@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_house",
+  "%Name":"obj_hiehgWallInsideLeft",
   "eventList":[],
   "managed":true,
-  "name":"obj_house",
+  "name":"obj_hiehgWallInsideLeft",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
+    "name":"sHighWallInsideLeft",
+    "path":"sprites/sHighWallInsideLeft/sHighWallInsideLeft.yy",
   },
   "spriteMaskId":null,
   "visible":true,

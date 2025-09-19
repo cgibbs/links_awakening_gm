@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_house",
+  "%Name":"obj_highWallCenterLeft",
   "eventList":[],
   "managed":true,
-  "name":"obj_house",
+  "name":"obj_highWallCenterLeft",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
+    "name":"sHighWallCenterLeft",
+    "path":"sprites/sHighWallCenterLeft/sHighWallCenterLeft.yy",
   },
   "spriteMaskId":null,
   "visible":true,

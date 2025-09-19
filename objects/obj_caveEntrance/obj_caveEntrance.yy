@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_house",
+  "%Name":"obj_caveEntrance",
   "eventList":[],
   "managed":true,
-  "name":"obj_house",
+  "name":"obj_caveEntrance",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
+    "name":"sCaveEntrance",
+    "path":"sprites/sCaveEntrance/sCaveEntrance.yy",
   },
   "spriteMaskId":null,
   "visible":true,

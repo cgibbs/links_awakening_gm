@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_house",
+  "%Name":"obj_plainsCenterRight",
   "eventList":[],
   "managed":true,
-  "name":"obj_house",
+  "name":"obj_plainsCenterRight",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
+    "name":"sPlainsCenterRight",
+    "path":"sprites/sPlainsCenterRight/sPlainsCenterRight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
